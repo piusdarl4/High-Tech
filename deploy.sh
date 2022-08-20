@@ -6,4 +6,6 @@
 
 print('Hello World')
 
-deploy to staging
+deploy to staging env
+echo good job.
+tested and accepted
