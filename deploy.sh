@@ -3,9 +3,8 @@
 #= shell scripts
 #python('Hello World')
 #= python script
-
-print('Hello World')
-
 deploy to staging env
 echo good job.
 tested and accepted
+deploy to staging env
+tested and accept
