@@ -9,3 +9,4 @@ tested and accepted
 deploy to staging env
 tested and accept
 deploy from JBoss
+deploy from maven
